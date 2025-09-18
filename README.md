@@ -4,7 +4,7 @@ My journey into technical writing started with a genuine curiosity, how can comp
 
 Today, I collaborate with engineering teams to deliver high-quality documentation that supports project success. In addition to experimenting with design tools such as Figma. As a lifelong learner, I thrive in spaces where I can expand my skills and contribute to the success of innovative projects.
 
-- 🏠 **Residence**: Canada 
+- 🏠 **Residence**: USA
 - 💼 **Current Role**: Freelance Technical Writer 
 - 📌 **Offers**: Actively seeking a full-time role, open to all countries
 
