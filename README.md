@@ -3,7 +3,7 @@ Hi, my name is Cleo Stewart. Welcome to my GitHub profile.
 I began my career in business development within both the education and healthcare sectors, but I sought more than the routine of meeting quarterly targets. I wanted a challenge that would allow me to cultivate a specialized skillset while channeling my passion for problem-solving. This pursuit led me to the field of Technical Writing.
 
 What excites me most about this discipline is the opportunity for continuous growth. Technical writers are often expected to go beyond documentation, engaging in areas such as UX research, programming, and documenting diverse interfaces, including GUIs, CNIs, and APIs. These expectations encourage writers to expand their expertise and maintain a competitive edge in the field.
-​
+
 Throughout this journey, I have earned certifications in Technical Writing and API Documentation, learned from experienced writers, and built a toolkit that includes Visual Studio Code, Git, Codeberg, markup formatting, and UX research. I have also explored design tools such as Figma to better integrate content with user experience. Today, I collaborate closely with engineering teams to deliver clear, high-quality documentation that empowers users and drives project success. 
 
 - 🏠 **Residence**: USA
