@@ -15,7 +15,7 @@ Throughout this journey, I have earned certifications in Technical Writing and A
 
 ## 📬 Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/cleostewart) or [E-mail](mailto:stewart.e.cleo@gmail.com)
+Feel free to reach out to me via [Portfolio](https://stewartecleo.wixsite.com/portfolio) or [LinkedIn](https://www.linkedin.com/in/cleostewart) or [E-mail](mailto:stewart.e.cleo@gmail.com)
 
 ---
 
